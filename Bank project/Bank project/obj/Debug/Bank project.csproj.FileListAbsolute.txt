@@ -1,0 +1,7 @@
+C:\Users\itsvibel\source\repos\Bank project\Bank project\bin\Debug\Bank project.exe.config
+C:\Users\itsvibel\source\repos\Bank project\Bank project\bin\Debug\Bank project.exe
+C:\Users\itsvibel\source\repos\Bank project\Bank project\bin\Debug\Bank project.pdb
+C:\Users\itsvibel\source\repos\Bank project\Bank project\obj\Debug\Bank project.csprojAssemblyReference.cache
+C:\Users\itsvibel\source\repos\Bank project\Bank project\obj\Debug\Bank project.csproj.CoreCompileInputs.cache
+C:\Users\itsvibel\source\repos\Bank project\Bank project\obj\Debug\Bank project.exe
+C:\Users\itsvibel\source\repos\Bank project\Bank project\obj\Debug\Bank project.pdb
